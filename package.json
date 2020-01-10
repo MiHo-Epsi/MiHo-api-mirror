@@ -1,0 +1,24 @@
+{
+  "name": "miho-back",
+  "version": "0.0.0",
+  "description": "Back pour les miroirs du projet MiHo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "back",
+    "miror",
+    "MiHo",
+    "project"
+  ],
+  "author": "Barre Jordy, Berquier Melinda, Delissenne Julien, Pruvost Maxime",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.17.0",
+    "pg-hstore": "^2.3.3",
+    "sequelize-cli": "^5.5.1"
+  }
+}
